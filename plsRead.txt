@@ -1,0 +1,8 @@
+Please refer to SuzonBaron_Manual_Automated_Functionality.pdf for additional info and screenshots.
+
+For Manual Test Plan file name - SuzonBaron_Technical skills assessment for QA specialist - test plan.xlsx
+
+The new test methods I've made is included in the InventoryMgmtQA folder -> specifically InventoryManagerTest.cs & ProductTest.cs
+
+I also attached a screenshot in InventoryMgmtQA folder showing my Test Results named 'Unit Tests'.
+
